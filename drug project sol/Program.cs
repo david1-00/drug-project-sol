@@ -158,3 +158,4 @@ class Program
             Console.WriteLine("  " + item);
     }
 }
+//omo e fit take person life help!!
